@@ -2,7 +2,7 @@
 
 Clickable design mock-up for a team proposal in Taiwan's 9th Social Enterprise Startup Proposal Competition (November 2026).
 
-**Live demo:** `https://YOUR-USERNAME.github.io/hen-care-mvp/`
+**Live demo:** `https://manjeetkaurlavieenrose-cpu.github.io/hen-care-mvp/`
 
 ## The idea
 
@@ -19,8 +19,8 @@ Older adults at community care stations "adopt" hens kept on a partner farm. Eac
 
 The page switches between Chinese and English.
 
-![Hen weekly card](screenshots/01-hen-weekly-card.png)
-![ESG monthly report](screenshots/03-esg-monthly-report.png)
+![Hen weekly card](01-hen-weekly-card.png)
+![ESG monthly report](03-esg-monthly-report.png)
 
 ## Honest notes
 
